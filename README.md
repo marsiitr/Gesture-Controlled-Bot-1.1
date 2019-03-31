@@ -52,6 +52,9 @@ Machine Learning could also be used for further development of the bot. Smartpho
 1. Shreyash Geda
 2. Vedvyas Danturi  
    
-
+## References    
+1. https://github.com/bolderflight/MPU9250/blob/master/README.md
+2. https://www.how2electronics.com/dc-motor-control-using-mpu6050-gyro-accelerometer/
+3. https://randomnerdtutorials.com/esp8266-web-server/
 
 
