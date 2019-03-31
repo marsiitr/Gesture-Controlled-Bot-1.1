@@ -3,7 +3,7 @@ Srishti 2019
 ## ABSTRACT  
 A Gesture Controlled Robot doesn't need to be controlled by clunky buttons. You just need to wear a transmitting device on your hand which includes an acceleration meter. This transmits the appropriate command to the robot so that it can do whatever we want it to.  
 
-![alt text] (/Images and Videos/Images/Implementation - 3.jpeg)
+![alt text] (https://github.com/Nikhil569/Gesture-Controlled-Bot-1.1/blob/patch-1/Images%20and%20Videos/Images/Implementation%20-%203.jpeg)
 
 ## MECHANICAL ASPECTS   
 1. Our design doesn't consists of any complex or advanced parts. That's why we were able to make it without using solidworks.  
