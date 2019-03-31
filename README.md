@@ -30,7 +30,7 @@ For one bot :
 | 3. | JHONSON MOTOR(X2) | 150 |      
 | 4. | CASTOR WHEEL(X1) | 100 |      
 | 5. | BATTERY(X1) | 100 |     
-| TOTAL | 1800 | 
+| TOTAL |          | 1800 | 
 
 ## Applications
 1. Can be used for military purposes.    
