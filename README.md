@@ -23,14 +23,14 @@ At sender, which was mounted on gloves, with purpose of observing gesture. We us
 ## Cost Structure
 For one bot :      
         
-| Sr. No. | Item | Cost |  
+| Sr. No. | Item | Cost(INR) |  
 |---------|---------|---------|    
-| 1. | NODE MCU(x2) | Rs 1300 |   
-| 2. | MOTOR DRIVER(x1) | Rs 150 |      
-| 3. | JHONSON MOTOR(X2) | Rs 150 |      
-| 4. | CASTOR WHEEL(X1) | Rs 100 |      
-| 5. | BATTERY(X1) | Rs 100 |     
-| 6. | POWER BANK  |        |       
+| 1. | NODE MCU(x2) | 1300 |   
+| 2. | MOTOR DRIVER(x1) | 150 |      
+| 3. | JHONSON MOTOR(X2) | 150 |      
+| 4. | CASTOR WHEEL(X1) | 100 |      
+| 5. | BATTERY(X1) | 100 |     
+| TOTAL | 1800 | 
 
 ## Applications
 1. Can be used for military purposes.    
