@@ -18,7 +18,8 @@ At sender, which was mounted on gloves, with purpose of observing gesture. We us
 3. Battery was used to power motordriver bacross 12V and ground terminal, and through 5V and ground terminal we powered MCU. Motors were powereed and controlled through motor driver.
 
 ## COST STRUCTURE
-For one bot :
+For one bot :      
+        
 | Sr. No. | Item | Cost |  
 |---------|---------|---------|    
 | 1. | NODE MCU(x2) | Rs 1300 |   
